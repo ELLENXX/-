@@ -1,0 +1,54 @@
+{
+    "success": true,
+    "data":[
+        {
+          "title":"智能计算与模式识别实验室",
+          "link":"/laboratories/jszn",
+          "key":1,
+          "icon":"laptop"
+          
+        },
+        {
+          "title":"嵌入式实验室",
+          "link":"/laboratories/qrs",
+          "key":2,
+          "icon":"user"
+        },
+        {
+          "title":"虚拟现实与仿真实验室",
+          "link":"/laboratories/xnxs",
+          "key":3,
+          "icon":"cloud"
+        },
+        {
+          "title":"网络技术与分布式计算实验室",
+          "link":"/laboratories/wnjs",
+          "key":7,
+          "icon":"desktop"
+        },
+        {
+          "title":"数据与知识工程实验室",
+          "link":"/laboratories/zsgc",
+          "key":5,
+          "icon":"team"
+        },
+        {
+          "title":"信息安全理论与技术实验室",
+          "link":"/laboratories/xxaq",
+          "key":6,
+          "icon":"link"
+        },
+        {
+          "title":"机器视觉实验室",
+          "link":"/laboratories/jqsj",
+          "key":4,
+          "icon":"usb"
+        },    
+        {
+          "title":"计算机系统结构实验室",
+          "link":"/laboratories/xtjg",
+          "key":8,
+          "icon":"global"
+        }         
+      ]
+}

@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+      {
+        "title": "首  页",
+        "key": "/userhome"
+      },
+      {
+        "title": "实验室",
+        "key": "/laboratories"
+      },
+      {
+        "title": "招新审核",
+        "key": "/recruitcheak"
+      },
+      {
+        "title": "联系我们",
+        "key": "/contact"
+      }
+    ]
+  }
