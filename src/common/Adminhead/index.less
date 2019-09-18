@@ -1,0 +1,53 @@
+
+
+.header{
+    background:#000C17;
+    .header-top{
+        height:60px;
+        line-height: 60px;
+        padding: 0 20px;
+        text-align: right;
+        color:#E7EAED;
+     .head-tit{
+        font-size: 20px;
+        line-height: 20px;
+     }
+        a{margin-left: 40px;}
+    }
+
+    .breadcrumb{
+        color: #1E66AC;
+        height:40px; 
+        line-height: 40px;
+        padding: 0 20px;
+        border-top:1px solid #E7EAED;
+    }
+    .weather{
+        text-align: right;
+         .date{
+        margin-right:10px;
+        font-size: 14px;
+    }
+    }
+    
+    .breadcrumb-title{
+        text-align: center;
+        font-size: 14px;
+        &:after{//变成三角形
+            position: absolute;
+             content: '';
+            top:39px;
+            left:75px;
+            border-top: 9px solid #000C17;
+            border-left: 12px solid transparent;
+            border-right: 12px  solid transparent;
+            
+
+        }
+    }
+    .weather-pic{
+        height:15px;
+        margin-right:5px;
+    }
+   
+}
